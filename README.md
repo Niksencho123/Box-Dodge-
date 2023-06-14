@@ -5,6 +5,7 @@ So for the past the days I have been updating my game and fixing bugs. Here is t
 - Protector mode: Save 100 boxes by hovering on them. You have 3 lives
 - Extras menu
 - Highscore system
+
 There is also a slight problem in the code. I will try to fix it but the game just is freezing at some places.
 But that is the changelog for today. Maybe I'll try to add a fourth star but we'll see!
 Goodbye for now!
